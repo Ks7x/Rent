@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /img/
+Disallow: /js/
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Allow: /img/
+Disallow: /js/
+Sitemap: http://rent.home-and-law.ru/sitemap.xml
+Host: rent.home-and-law.ru
